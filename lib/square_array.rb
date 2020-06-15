@@ -1,12 +1,15 @@
-#counter = 0
 #array = [1,2,3,4,5]
+#new_array = []
  
-#while array[counter] do
-#  puts array[counter]
-#  counter += 1
+#array.length.times do |index|
+#  new_array.push(array[index] + 1)
 #end
+#new_array
 
-numbers = [1,2,3]
-
-def square_array(numbers)
-  while array
+numbers = [1,2,3,]
+new_array = []
+ 
+numbers.each do |index|
+  new_array.push(array[index] + 1)
+end
+new_array
