@@ -10,6 +10,6 @@ numbers = [1,2,3,]
 new_array = []
  
 numbers.each do |index|
-  new_array.push(array[index] ** 2)
+  new_array.push(array[index].each ** 2)
 end
 new_array
