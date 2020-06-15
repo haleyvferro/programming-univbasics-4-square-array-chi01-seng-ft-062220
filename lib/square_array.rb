@@ -7,7 +7,7 @@
 #new_array
 
 numbers = [1,2,3,]
-new_array = []
+new_numbers = []
  
 def square_array
   
