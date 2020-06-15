@@ -6,12 +6,3 @@ numbers = [1,2,3,]
 end
 
 square_array(numbers)
-
- 
- 
-#def square_array
- # while count < numbers.length do
-  # new_numbers.push(numbers[count].to_s)
-   #count ** 2 
- #end
-# new_numbers
